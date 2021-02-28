@@ -11,7 +11,7 @@ body{
     padding: 0;
     font-family: 'Roboto', sans-serif;
     background-color: #FAEBD7;
-    color: ##36383a;
+    color: #36383a;
 
 }
 
@@ -73,6 +73,11 @@ a{
     padding-left: 0;
     width: 100px;
 }
+
+.techStackIcon {
+    font-size: 30px;
+}
+
 /* animations / utilities */
 .section-2 a:hover{
     font-size: 1.3rem;
